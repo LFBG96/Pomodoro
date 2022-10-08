@@ -6,7 +6,7 @@
     aumenta para 15 minutos, quando finalizar, irá tocar um som diferente e o cronômetro
     reseta.
 </p> 
-<a href="https://lfbg96.github.io/pomodoro">GitHub</a>
+<a href="https://lfbg96.github.io/pomodoro">Site</a>
 <h2> Equipe do projeto </h2>
 
 
