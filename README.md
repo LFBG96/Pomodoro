@@ -7,14 +7,4 @@
     reseta.
 </p> 
 <a href="https://lfbg96.github.io/pomodoro">Site</a>
-<h2> Equipe do projeto </h2>
 
-
-<ul>
-    <li>Luís Fernando</li>
-    <li>Yuran Rocha</li>
-    <li>Kaline Ellen</li>
-    <li>Kaline Ellen</li>
-    <li>José Rodrigues</li>
-    <li>Caique Alvim</li>
-</ul>
